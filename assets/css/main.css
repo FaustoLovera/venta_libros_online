@@ -93,6 +93,12 @@ h6 {
   font-family: var(--heading-font);
 }
 
+/* logo del nav */
+#fausto {
+  font-size: 25px;
+}
+/* fin de logo del nav */
+
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
